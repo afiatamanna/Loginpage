@@ -187,7 +187,8 @@ input:focus{
 }
 
 .list {
-    margin-top: 160px;
+  position: relative;
+    top: 50%;
     display: flex;
     
     
