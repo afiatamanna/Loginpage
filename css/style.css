@@ -13,19 +13,22 @@
   background: #f2c98a;
   width: 40%;
   height: 100%;
+    position: relative;
   
 }
-.left img {
+.image img {
   width: 100%;
-  margin: 490px 0 0 ;
+ position: absolute;
+    bottom: 0px;
   height: 465px;
 }
 .logo {
+  
   display: flex;
   flex-direction: column-reverse;
   width: 400px;
-  margin-top: -750px;
-  margin-left: 200px;
+  margin-top:30%;
+  margin-left: 30%;
 }
 .logo h2 {
   
